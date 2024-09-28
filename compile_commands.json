@@ -1,0 +1,18 @@
+[
+ {
+  "directory": "/home/ehantman/Desktop/repos/ClockInApp",
+  "arguments": [
+   "clang",
+   "-I./include",
+   "-g",
+   "-MMD",
+   "-MP",
+   "-c",
+   "-fPIE",
+   "src/main.c",
+   "-o",
+   "build/./src/main.c.o"
+  ],
+  "file": "src/main.c"
+ }
+]
