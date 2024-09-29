@@ -1,6 +1,6 @@
 [
  {
-  "directory": "/home/ehantman/Desktop/repos/ClockInApp",
+  "directory": "/home/elijah/Desktop/Dev/Git/repos/ClockInApp",
   "arguments": [
    "clang",
    "-I./include",

@@ -1,7 +1,7 @@
 TARGET_EXEC := app
 
 BUILD_DIR := ./build
-SRC_DIRS := ./test ./src
+SRC_DIRS := ./src
 
 
 SRCS := $(shell find $(SRC_DIRS) -name '*.c')
